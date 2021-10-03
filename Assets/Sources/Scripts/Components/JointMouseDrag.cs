@@ -44,7 +44,8 @@ public class JointMouseDrag : MonoBehaviour
 
     public void Falling()
     {
-        conf.breakForce = 1;
+        drag = false;
+        //conf.breakForce = 0;
         MainFalling();
     }
 
@@ -52,7 +53,7 @@ public class JointMouseDrag : MonoBehaviour
     {
         /*rb.isKinematic = false;
         rb.useGravity = true;*/
-        transform.parent.GetComponent<Rigidbody>().constraints = RigidbodyConstraints.FreezeAll;
+        transform.parent.GetComponent<Rigidbody>().constraints = RigidbodyConstraints.None;
         transform.parent.GetComponent<Collider>().enabled = true;
                 
         transform.SetParent(null);
@@ -83,6 +84,14 @@ public class JointMouseDrag : MonoBehaviour
         else
         {
             rb.MovePosition(lastposition);
+        }
+    }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.transform.name.Contains("Cube"))
+        {
+            drag = false;
         }
     }
 }

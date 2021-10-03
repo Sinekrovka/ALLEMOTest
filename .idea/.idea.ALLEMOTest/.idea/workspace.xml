@@ -2,35 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3101527-854b-4484-b44c-a1764b369d19" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ALLEMOTest/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ALLEMOTest/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ALLEMOTest/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ALLEMOTest/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ALLEMOTest/riderModule.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Banana Yellow Games/Characters/Banana Man/Banana Man.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Banana Yellow Games/Characters/Banana Man/Banana Man.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Banana Yellow Games/Characters/Banana Man/Materials/Body.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Banana Yellow Games/Characters/Banana Man/Materials/Body.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Banana Yellow Games/Characters/Banana Man/Materials/Joints.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Banana Yellow Games/Characters/Banana Man/Materials/Joints.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sources/Materials/New Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sources/Materials/New Material.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sources/Prefabs/Banana Man.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sources/Prefabs/Banana Man.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ALLEMOTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ALLEMOTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sources/Scripts/Components/JointMouseDrag.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sources/Scripts/Components/JointMouseDrag.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-AssetImportWorker0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-AssetImportWorker0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe1.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe1.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe10.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe10.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe11.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe11.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe12.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe12.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe13.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe14.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe15.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe2.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe2.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe3.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe3.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe4.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe4.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe5.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe5.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe6.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe6.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe7.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe7.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe8.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe8.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe9.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe9.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,12 +32,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="1234" />
+          <entry key="cs" value="1340" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="1234" />
+          <entry key="C#" value="1340" />
         </counts>
       </usages-collector>
     </session>
@@ -73,22 +47,25 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Sources/Scripts/Components/JointMouseDrag.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="642">
-              <caret line="79" column="32" lean-forward="true" selection-start-line="79" selection-start-column="32" selection-end-line="79" selection-end-column="32" />
+            <state relative-caret-position="98">
+              <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
               <folding>
-                <marker date="1633282031567" expanded="true" signature="63:1981" ph="{...}" />
-                <marker date="1633282031567" expanded="true" signature="400:630" ph="{...}" />
-                <marker date="1633282031567" expanded="true" signature="662:738" ph="{...}" />
-                <marker date="1633282031567" expanded="true" signature="686:732" ph="{...}" />
-                <marker date="1633282031567" expanded="true" signature="770:803" ph="{...}" />
-                <marker date="1633282031567" expanded="true" signature="833:867" ph="{...}" />
-                <marker date="1633282031567" expanded="true" signature="894:958" ph="{...}" />
-                <marker date="1633282031567" expanded="true" signature="990:1357" ph="{...}" />
-                <marker date="1633282031567" expanded="true" signature="1388:1979" ph="{...}" />
-                <marker date="1633282031567" expanded="true" signature="1412:1897" ph="{...}" />
-                <marker date="1633282031567" expanded="true" signature="1563:1750" ph="{...}" />
-                <marker date="1633282031567" expanded="true" signature="1795:1887" ph="{...}" />
-                <marker date="1633282031567" expanded="true" signature="1910:1973" ph="{...}" />
+                <marker date="1633283609154" expanded="true" signature="63:2165" ph="{...}" />
+                <marker date="1633283609154" expanded="true" signature="400:630" ph="{...}" />
+                <marker date="1633283609154" expanded="true" signature="662:738" ph="{...}" />
+                <marker date="1633283609154" expanded="true" signature="686:732" ph="{...}" />
+                <marker date="1633283609154" expanded="true" signature="770:803" ph="{...}" />
+                <marker date="1633283609154" expanded="true" signature="833:867" ph="{...}" />
+                <marker date="1633283609154" expanded="true" signature="894:980" ph="{...}" />
+                <marker date="1633283609154" expanded="true" signature="1012:1383" ph="{...}" />
+                <marker date="1633283609154" expanded="true" signature="1027:1084" ph="/* rb.isKinematic = false; ... */" />
+                <marker date="1633283609154" expanded="true" signature="1414:2005" ph="{...}" />
+                <marker date="1633283609154" expanded="true" signature="1438:1923" ph="{...}" />
+                <marker date="1633283609154" expanded="true" signature="1589:1776" ph="{...}" />
+                <marker date="1633283609154" expanded="true" signature="1821:1913" ph="{...}" />
+                <marker date="1633283609154" expanded="true" signature="1936:1999" ph="{...}" />
+                <marker date="1633283609154" expanded="true" signature="2054:2163" ph="{...}" />
+                <marker date="1633283609154" expanded="true" signature="2111:2157" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -206,12 +183,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1633262040280</updated>
-      <workItem from="1633262055479" duration="9933000" />
+      <workItem from="1633262055479" duration="11487000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9933000" />
+    <option name="totallyTimeSpent" value="11487000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -273,22 +250,25 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/Sources/Scripts/Components/JointMouseDrag.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="642">
-          <caret line="79" column="32" lean-forward="true" selection-start-line="79" selection-start-column="32" selection-end-line="79" selection-end-column="32" />
+        <state relative-caret-position="98">
+          <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
           <folding>
-            <marker date="1633282031567" expanded="true" signature="63:1981" ph="{...}" />
-            <marker date="1633282031567" expanded="true" signature="400:630" ph="{...}" />
-            <marker date="1633282031567" expanded="true" signature="662:738" ph="{...}" />
-            <marker date="1633282031567" expanded="true" signature="686:732" ph="{...}" />
-            <marker date="1633282031567" expanded="true" signature="770:803" ph="{...}" />
-            <marker date="1633282031567" expanded="true" signature="833:867" ph="{...}" />
-            <marker date="1633282031567" expanded="true" signature="894:958" ph="{...}" />
-            <marker date="1633282031567" expanded="true" signature="990:1357" ph="{...}" />
-            <marker date="1633282031567" expanded="true" signature="1388:1979" ph="{...}" />
-            <marker date="1633282031567" expanded="true" signature="1412:1897" ph="{...}" />
-            <marker date="1633282031567" expanded="true" signature="1563:1750" ph="{...}" />
-            <marker date="1633282031567" expanded="true" signature="1795:1887" ph="{...}" />
-            <marker date="1633282031567" expanded="true" signature="1910:1973" ph="{...}" />
+            <marker date="1633283609154" expanded="true" signature="63:2165" ph="{...}" />
+            <marker date="1633283609154" expanded="true" signature="400:630" ph="{...}" />
+            <marker date="1633283609154" expanded="true" signature="662:738" ph="{...}" />
+            <marker date="1633283609154" expanded="true" signature="686:732" ph="{...}" />
+            <marker date="1633283609154" expanded="true" signature="770:803" ph="{...}" />
+            <marker date="1633283609154" expanded="true" signature="833:867" ph="{...}" />
+            <marker date="1633283609154" expanded="true" signature="894:980" ph="{...}" />
+            <marker date="1633283609154" expanded="true" signature="1012:1383" ph="{...}" />
+            <marker date="1633283609154" expanded="true" signature="1027:1084" ph="/* rb.isKinematic = false; ... */" />
+            <marker date="1633283609154" expanded="true" signature="1414:2005" ph="{...}" />
+            <marker date="1633283609154" expanded="true" signature="1438:1923" ph="{...}" />
+            <marker date="1633283609154" expanded="true" signature="1589:1776" ph="{...}" />
+            <marker date="1633283609154" expanded="true" signature="1821:1913" ph="{...}" />
+            <marker date="1633283609154" expanded="true" signature="1936:1999" ph="{...}" />
+            <marker date="1633283609154" expanded="true" signature="2054:2163" ph="{...}" />
+            <marker date="1633283609154" expanded="true" signature="2111:2157" ph="{...}" />
           </folding>
         </state>
       </provider>

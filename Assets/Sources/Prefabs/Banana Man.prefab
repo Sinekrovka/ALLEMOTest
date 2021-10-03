@@ -812,7 +812,7 @@ ConfigurableJoint:
   m_RotationDriveMode: 0
   m_AngularXDrive:
     serializedVersion: 3
-    positionSpring: 300
+    positionSpring: 200
     positionDamper: 50
     maximumForce: 3.4028233e+38
   m_AngularYZDrive:
@@ -1006,7 +1006,7 @@ ConfigurableJoint:
   m_RotationDriveMode: 0
   m_AngularXDrive:
     serializedVersion: 3
-    positionSpring: 100
+    positionSpring: 200
     positionDamper: 50
     maximumForce: 3.4028233e+38
   m_AngularYZDrive:
@@ -2211,7 +2211,7 @@ ConfigurableJoint:
   m_RotationDriveMode: 0
   m_AngularXDrive:
     serializedVersion: 3
-    positionSpring: 300
+    positionSpring: 200
     positionDamper: 50
     maximumForce: 3.4028233e+38
   m_AngularYZDrive:
@@ -3088,10 +3088,10 @@ SphereCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7531803667016936070}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Radius: 0.3
+  m_Radius: 0.7
   m_Center: {x: 0, y: -0.0000038146973, z: 0.00000017881393}
 --- !u!135 &603860090
 SphereCollider:
@@ -3101,7 +3101,7 @@ SphereCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7531803667016936070}
   m_Material: {fileID: 0}
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
   m_Radius: 1.5
@@ -3328,10 +3328,10 @@ SphereCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7531803667440936750}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Radius: 0.3
+  m_Radius: 0.7
   m_Center: {x: 0, y: -0.0000038146973, z: 0.00000035762787}
 --- !u!135 &1966745023
 SphereCollider:
@@ -3341,7 +3341,7 @@ SphereCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7531803667440936750}
   m_Material: {fileID: 0}
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
   m_Radius: 1.5
@@ -3705,7 +3705,7 @@ ConfigurableJoint:
   m_RotationDriveMode: 0
   m_AngularXDrive:
     serializedVersion: 3
-    positionSpring: 100
+    positionSpring: 200
     positionDamper: 50
     maximumForce: 3.4028233e+38
   m_AngularYZDrive:
