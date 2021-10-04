@@ -4,13 +4,7 @@
     <list default="true" id="b3101527-854b-4484-b44c-a1764b369d19" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ALLEMOTest/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ALLEMOTest/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ALLEMOTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ALLEMOTest/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sources/Scripts/Components/FinishController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sources/Scripts/Components/FinishController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sources/Scripts/Components/JointMouseDrag.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sources/Scripts/Components/JointMouseDrag.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sources/Scripts/LoseState/LoseController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sources/Scripts/LoseState/LoseController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sources/Scripts/WinState/WinParticle.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sources/Scripts/WinState/WinParticle.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker3.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker3.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,31 +22,31 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="13" />
+          <entry key="cs" value="15" />
           <entry key="shader" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="13" />
+          <entry key="C#" value="15" />
           <entry key="ShaderLab" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="2805" />
+          <entry key="cs" value="3101" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="2805" />
+          <entry key="C#" value="3101" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Sources/Scripts/Components/JointMouseDrag.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
@@ -83,16 +77,31 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Sources/Scripts/Components/Floor.cs">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Sources/Scripts/Components/Coin.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+            <state relative-caret-position="170">
+              <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
               <folding>
-                <marker date="1633374274458" expanded="false" signature="6:92" ph="..." />
-                <marker date="1633374274458" expanded="true" signature="128:367" ph="{...}" />
-                <marker date="1633374274458" expanded="true" signature="178:365" ph="{...}" />
-                <marker date="1633374274458" expanded="true" signature="283:359" ph="{...}" />
+                <marker date="1633382652713" expanded="false" signature="6:78" ph="..." />
+                <marker date="1633382652713" expanded="true" signature="113:506" ph="{...}" />
+                <marker date="1633382652713" expanded="true" signature="215:504" ph="{...}" />
+                <marker date="1633382652713" expanded="true" signature="315:498" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Sources/Scripts/GameState/CoinController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <marker date="1633382652779" expanded="true" signature="6:114" ph="..." />
+                <marker date="1633382652779" expanded="true" signature="166:543" ph="{...}" />
+                <marker date="1633382652779" expanded="true" signature="327:411" ph="{...}" />
+                <marker date="1633382652779" expanded="true" signature="453:535" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -190,19 +199,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Kuhpik's Bootstrap/Source/Scripts/Abstracts/GameSystem.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-              <folding>
-                <marker date="1612692997000" expanded="true" signature="36:212" ph="{...}" />
-                <marker date="1612692997000" expanded="true" signature="91:210" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Kuhpik's Bootstrap/Source/Scripts/Data/GameData.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
@@ -230,9 +226,11 @@
     <setting file="file://$PROJECT_DIR$/Assets/Sources/Scripts/WinState/WinParticle.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Sources/Scripts/Components/Floor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Sources/Scripts/LoadState/LoadObjectsScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Sources/Scripts/GameState/CoinController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Sources/Scripts/Components/JointMouseDrag.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Kuhpik's Bootstrap/Source/Scripts/MonoBehaviours/GameStateSetuper.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Kuhpik's Bootstrap/Source/Scripts/Data/GameData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Sources/Scripts/Components/Coin.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Kuhpik's Bootstrap/Source/Scripts/Commons/Enums/EGamestate.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Kuhpik's Bootstrap/Source/Scripts/Bootstrap.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Kuhpik's Bootstrap/Source/Scripts/Abstracts/GameSystem.cs" root0="FORCE_HIGHLIGHTING" />
@@ -250,6 +248,8 @@
         <option value="$PROJECT_DIR$/Assets/Sources/Scripts/LoseState/LoseController.cs" />
         <option value="$PROJECT_DIR$/Assets/Sources/Scripts/WinState/WinParticle.cs" />
         <option value="$PROJECT_DIR$/Assets/Sources/Scripts/Components/JointMouseDrag.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sources/Scripts/GameState/CoinController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sources/Scripts/Components/Coin.cs" />
       </list>
     </option>
   </component>
@@ -496,12 +496,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1633262040280</updated>
-      <workItem from="1633262055479" duration="21290000" />
+      <workItem from="1633262055479" duration="22252000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21290000" />
+    <option name="totallyTimeSpent" value="22252000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -513,7 +513,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -788,6 +788,32 @@
             <marker date="1633381049369" expanded="true" signature="2347:2393" ph="{...}" />
             <marker date="1633381049369" expanded="true" signature="2434:2683" ph="{...}" />
             <marker date="1633381049369" expanded="true" signature="2528:2592" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Sources/Scripts/GameState/CoinController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <marker date="1633382652779" expanded="true" signature="6:114" ph="..." />
+            <marker date="1633382652779" expanded="true" signature="166:543" ph="{...}" />
+            <marker date="1633382652779" expanded="true" signature="327:411" ph="{...}" />
+            <marker date="1633382652779" expanded="true" signature="453:535" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Sources/Scripts/Components/Coin.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+          <folding>
+            <marker date="1633382652713" expanded="false" signature="6:78" ph="..." />
+            <marker date="1633382652713" expanded="true" signature="113:506" ph="{...}" />
+            <marker date="1633382652713" expanded="true" signature="215:504" ph="{...}" />
+            <marker date="1633382652713" expanded="true" signature="315:498" ph="{...}" />
           </folding>
         </state>
       </provider>

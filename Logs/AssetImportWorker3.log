@@ -534,3 +534,169 @@ Received Import Request.
 Start importing Assets/Sources/Materials/Coins.mat using Guid(bf0aa4bdb28947947ab0d812dbc62d49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44a6a7003c72d1a15e17464a694f3d3d') in 0.390334 seconds
   Import took 0.393657 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 211.910666 seconds.
+  path: Assets/Sources/Scripts/Components/CoinController.cs
+  artifactKey: Guid(719f276546e92af4298f8a5599f820e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sources/Scripts/Components/CoinController.cs using Guid(719f276546e92af4298f8a5599f820e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7eac5af99a6eb5a57e5218c6e9fbcb92') in 0.013061 seconds
+  Import took 0.015995 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005614 seconds.
+  path: Assets/Sources/Scripts/Components/CoinController.cs
+  artifactKey: Guid(719f276546e92af4298f8a5599f820e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sources/Scripts/Components/CoinController.cs using Guid(719f276546e92af4298f8a5599f820e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7eac5af99a6eb5a57e5218c6e9fbcb92') in 0.005946 seconds
+  Import took 0.009007 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001983 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+03:12:52.426 |V| RiderPlugin                    | <unnamed-thread>:1             | Writing Library/EditorInstance.json
+Mono: successfully reloaded assembly
+- Completed reload, in  1.220 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1292 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.4 MB.
+System memory in use after: 87.4 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1886.
+Total: 2.956800 ms (FindLiveObjects: 0.195400 ms CreateObjectMapping: 0.036300 ms MarkObjects: 2.607300 ms  DeleteObjects: 0.116700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001720 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.06 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+03:13:16.716 |V| RiderPlugin                    | <unnamed-thread>:1             | Writing Library/EditorInstance.json
+Mono: successfully reloaded assembly
+- Completed reload, in  1.203 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.72 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1292 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.4 MB.
+System memory in use after: 87.4 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1889.
+Total: 2.938500 ms (FindLiveObjects: 0.363900 ms CreateObjectMapping: 0.043000 ms MarkObjects: 2.417200 ms  DeleteObjects: 0.112400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.501131 seconds.
+  path: Assets/Sources/Scripts/Components/Coin.cs
+  artifactKey: Guid(4591ab865a7f59048a8e106219f8dbe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sources/Scripts/Components/Coin.cs using Guid(4591ab865a7f59048a8e106219f8dbe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8829c008b70a2fc44198443be14b2682') in 0.017935 seconds
+  Import took 0.045706 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001787 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+03:13:26.736 |V| RiderPlugin                    | <unnamed-thread>:1             | Writing Library/EditorInstance.json
+Mono: successfully reloaded assembly
+- Completed reload, in  1.186 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1293 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.4 MB.
+System memory in use after: 87.5 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1893.
+Total: 2.501100 ms (FindLiveObjects: 0.191200 ms CreateObjectMapping: 0.038600 ms MarkObjects: 2.164200 ms  DeleteObjects: 0.105600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 85.017302 seconds.
+  path: Assets/Sources/Prefabs/Coin.prefab
+  artifactKey: Guid(2cb19a0de737ac543a65e2bbcca8bc5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sources/Prefabs/Coin.prefab using Guid(2cb19a0de737ac543a65e2bbcca8bc5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d8465a1e7c0cd3e84674cc301fc34fc') in 0.119321 seconds
+  Import took 0.132369 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003898 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+03:24:26.112 |V| RiderPlugin                    | <unnamed-thread>:1             | Writing Library/EditorInstance.json
+Mono: successfully reloaded assembly
+- Completed reload, in  1.634 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1293 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.6 MB.
+System memory in use after: 87.6 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1898.
+Total: 5.298000 ms (FindLiveObjects: 0.635300 ms CreateObjectMapping: 0.073000 ms MarkObjects: 4.404600 ms  DeleteObjects: 0.182000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 581.382547 seconds.
+  path: Assets/Sources/Prefabs/Coin.prefab
+  artifactKey: Guid(2cb19a0de737ac543a65e2bbcca8bc5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sources/Prefabs/Coin.prefab using Guid(2cb19a0de737ac543a65e2bbcca8bc5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04e3674bdab3e14b82f310a4cb4ddaff') in 0.410642 seconds
+  Import took 0.432385 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001687 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+03:26:37.153 |V| RiderPlugin                    | <unnamed-thread>:1             | Writing Library/EditorInstance.json
+Mono: successfully reloaded assembly
+- Completed reload, in  1.232 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1293 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.6 MB.
+System memory in use after: 87.6 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1902.
+Total: 2.686300 ms (FindLiveObjects: 0.194900 ms CreateObjectMapping: 0.044000 ms MarkObjects: 2.331500 ms  DeleteObjects: 0.114400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001712 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+03:27:53.622 |V| RiderPlugin                    | <unnamed-thread>:1             | Writing Library/EditorInstance.json
+Mono: successfully reloaded assembly
+- Completed reload, in  1.681 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1293 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.6 MB.
+System memory in use after: 87.6 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1905.
+Total: 3.361300 ms (FindLiveObjects: 0.329700 ms CreateObjectMapping: 0.043000 ms MarkObjects: 2.853400 ms  DeleteObjects: 0.131300 ms)
+
