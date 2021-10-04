@@ -310,6 +310,7 @@
               <e p="FinishController.cs" t="Include" />
               <e p="Floor.cs" t="Include" />
               <e p="JointMouseDrag.cs" t="Include" />
+              <e p="RestartGame.cs" t="Include" />
             </e>
             <e p="GameState" t="Include">
               <e p="CameraController.cs" t="Include" />

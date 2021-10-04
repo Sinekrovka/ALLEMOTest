@@ -1,18 +1,15 @@
 using System.Collections;
 using System.Collections.Generic;
+using Kuhpik;
 using UnityEngine;
 
-public class WinParticle : MonoBehaviour
+public class WinParticle : GameSystem, IIniting
 {
-    // Start is called before the first frame update
-    void Start()
+    void IIniting.OnInit()
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        foreach (var joint in game.joints)
+        {
+            joint.enabled = false;
+        }
     }
 }

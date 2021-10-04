@@ -9,6 +9,7 @@ public class FinishController : MonoBehaviour
     {
         if (other.CompareTag("Player") && Bootstrap.GetCurrentGamestate().Equals(EGamestate.Game))
         {
+            
             Bootstrap.ChangeGameState(EGamestate.Win);
         }
     }

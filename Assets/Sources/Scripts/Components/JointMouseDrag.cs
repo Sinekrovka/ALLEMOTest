@@ -56,12 +56,9 @@ public class JointMouseDrag : MonoBehaviour
 
     private void MainFalling()
     {
-        /*rb.isKinematic = false;
-        rb.useGravity = true;*/
         transform.parent.GetComponent<Rigidbody>().constraints = RigidbodyConstraints.None;
         transform.parent.GetComponent<Collider>().enabled = true;
         transform.SetParent(null);
-        // rb.velocity = Vector3.zero;
         drag = false;
         fall = false;
     }
@@ -77,6 +74,14 @@ public class JointMouseDrag : MonoBehaviour
                 pos.z = zPosition;
                 lastposition = pos;
                 rb.MovePosition(lastposition);
+            }
+
+            if (!Physics.Raycast(transform.position, Vector3.forward, out hit) )
+            {
+                ColliderReverse();
+                MainFalling();
+                other.Falling();
+                other.ColliderReverse();
             }
 
             if (!TryGetComponent(out conf))
@@ -97,5 +102,18 @@ public class JointMouseDrag : MonoBehaviour
         {
             drag = false;
         }
+    }
+
+    public void ColliderReverse()
+    {
+        Collider[] cols = GetComponents<Collider>();
+
+        foreach (var col in cols)
+        {
+            col.isTrigger = !col.isTrigger;
+        }
+
+        rb.isKinematic = false;
+        rb.constraints = RigidbodyConstraints.None;
     }
 }
