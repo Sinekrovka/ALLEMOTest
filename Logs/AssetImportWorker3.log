@@ -700,3 +700,229 @@ System memory in use after: 87.6 MB.
 Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1905.
 Total: 3.361300 ms (FindLiveObjects: 0.329700 ms CreateObjectMapping: 0.043000 ms MarkObjects: 2.853400 ms  DeleteObjects: 0.131300 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 279.321843 seconds.
+  path: Assets/Epic Toon FX/Prefabs/Environment
+  artifactKey: Guid(5cd26f130e92bf54bb8869788d71cff2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Epic Toon FX/Prefabs/Environment using Guid(5cd26f130e92bf54bb8869788d71cff2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3100dd6732415fb587daad68320e111c') in 0.068173 seconds
+  Import took 0.082899 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.509359 seconds.
+  path: Assets/Epic Toon FX/Prefabs/Environment/Stars
+  artifactKey: Guid(59705ef62a23569469068ba307add044) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Epic Toon FX/Prefabs/Environment/Stars using Guid(59705ef62a23569469068ba307add044) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6c4cf509c5c14b31a96848618540b94') in 0.096034 seconds
+  Import took 0.147264 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Epic Toon FX/Prefabs/Environment/Stars/StarFieldSimple.prefab
+  artifactKey: Guid(07014c6862cc6bd4facec707d0923fe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Epic Toon FX/Prefabs/Environment/Stars/StarFieldSimple.prefab using Guid(07014c6862cc6bd4facec707d0923fe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd417621a3e214f402140702e160d70c6') in 0.046858 seconds
+  Import took 0.050007 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.820505 seconds.
+  path: Assets/Epic Toon FX/Prefabs 2D/Explosions
+  artifactKey: Guid(b84c3cda2f4760749a3b2fd305c249f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Epic Toon FX/Prefabs 2D/Explosions using Guid(b84c3cda2f4760749a3b2fd305c249f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab1cd1c7f70513d3abbc3fdf000b2236') in 0.036416 seconds
+  Import took 0.066263 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.063248 seconds.
+  path: Assets/Epic Toon FX/Prefabs 2D/Explosions/MetalHit2D.prefab
+  artifactKey: Guid(8368975de5593844bbfaf74e342fb326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Epic Toon FX/Prefabs 2D/Explosions/MetalHit2D.prefab using Guid(8368975de5593844bbfaf74e342fb326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '838739beec38ad461bf27e73f169b81c') in 0.113846 seconds
+  Import took 0.128475 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Epic Toon FX/Prefabs 2D/Explosions/SparkExplosion2D.prefab
+  artifactKey: Guid(ec61825cb06be72419bb09eee03af08c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Epic Toon FX/Prefabs 2D/Explosions/SparkExplosion2D.prefab using Guid(ec61825cb06be72419bb09eee03af08c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0830bf6958a7be5a7e8d339d6672d168') in 0.092033 seconds
+  Import took 0.094746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Epic Toon FX/Prefabs 2D/Explosions/StarBurst2D.prefab
+  artifactKey: Guid(82bf03917e16d3d4cad30518cca28308) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Epic Toon FX/Prefabs 2D/Explosions/StarBurst2D.prefab using Guid(82bf03917e16d3d4cad30518cca28308) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69704126c1979e18f933b97395515df1') in 0.049675 seconds
+  Import took 0.093806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.257142 seconds.
+  path: Assets/Epic Toon FX/Materials/Misc/Stars/star_ADD.mat
+  artifactKey: Guid(f977d103ddb4f804f84d689a9f2d20ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Epic Toon FX/Materials/Misc/Stars/star_ADD.mat using Guid(f977d103ddb4f804f84d689a9f2d20ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33fe3719d9cfbf6b33cf3dbf520eba5a') in 0.722817 seconds
+  Import took 0.751373 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002157 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+03:34:00.728 |V| RiderPlugin                    | <unnamed-thread>:1             | Writing Library/EditorInstance.json
+Mono: successfully reloaded assembly
+- Completed reload, in  1.282 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1293 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.8 MB.
+System memory in use after: 87.8 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1910.
+Total: 2.881400 ms (FindLiveObjects: 0.208400 ms CreateObjectMapping: 0.043500 ms MarkObjects: 2.512100 ms  DeleteObjects: 0.116000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 274.624832 seconds.
+  path: Assets/Epic Toon FX/Prefabs/Environment/Confetti
+  artifactKey: Guid(fa49c0d2b79af2b4ea93d3d5258040e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Epic Toon FX/Prefabs/Environment/Confetti using Guid(fa49c0d2b79af2b4ea93d3d5258040e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c3c3a19b32d3d0f4c64be0170592f3d') in 0.017341 seconds
+  Import took 0.036634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.196088 seconds.
+  path: Assets/Epic Toon FX/Prefabs/Environment/Confetti/Blast
+  artifactKey: Guid(63edfe5e8d6abbe44a9e9647846cf76d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Epic Toon FX/Prefabs/Environment/Confetti/Blast using Guid(63edfe5e8d6abbe44a9e9647846cf76d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ce34511e4667eafbb96881a1eb445e9') in 0.010535 seconds
+  Import took 0.046605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.294454 seconds.
+  path: Assets/Epic Toon FX/Prefabs/Environment/Confetti/Blast/ConfettiBlastBlue.prefab
+  artifactKey: Guid(a54f4434684ca0143bf644289de35374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Epic Toon FX/Prefabs/Environment/Confetti/Blast/ConfettiBlastBlue.prefab using Guid(a54f4434684ca0143bf644289de35374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0973c0c3ac193b4f4b28b1d451f54baf') in 0.142832 seconds
+  Import took 0.155644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Epic Toon FX/Prefabs/Environment/Confetti/Blast/ConfettiBlastGreenYellow.prefab
+  artifactKey: Guid(1c417f6a98778594d92a7a8883ede96e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Epic Toon FX/Prefabs/Environment/Confetti/Blast/ConfettiBlastGreenYellow.prefab using Guid(1c417f6a98778594d92a7a8883ede96e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06b4072a1479901676ea372efe9b9c3a') in 0.011374 seconds
+  Import took 0.040647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Epic Toon FX/Prefabs/Environment/Confetti/Blast/ConfettiBlastOrangeGreen.prefab
+  artifactKey: Guid(6bc8c7b8a20b3574080cc6fa394ec725) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Epic Toon FX/Prefabs/Environment/Confetti/Blast/ConfettiBlastOrangeGreen.prefab using Guid(6bc8c7b8a20b3574080cc6fa394ec725) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '517c94aec69f5bb63a425f16f203227b') in 0.048825 seconds
+  Import took 0.071365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Epic Toon FX/Prefabs/Environment/Confetti/Blast/ConfettiBlastRainbow.prefab
+  artifactKey: Guid(36bdc02b23d9ca94d93bd715c0cca5c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Epic Toon FX/Prefabs/Environment/Confetti/Blast/ConfettiBlastRainbow.prefab using Guid(36bdc02b23d9ca94d93bd715c0cca5c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fc6fcb68157911b0ae4d1b1530cedcb') in 0.034406 seconds
+  Import took 0.061047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Epic Toon FX/Prefabs/Environment/Confetti/Blast/ConfettiBlastRed.prefab
+  artifactKey: Guid(aa67315846cbf1a4db925cced0c050da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Epic Toon FX/Prefabs/Environment/Confetti/Blast/ConfettiBlastRed.prefab using Guid(aa67315846cbf1a4db925cced0c050da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd88e4229b94036c1aabda62407195324') in 0.014000 seconds
+  Import took 0.017196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Epic Toon FX/Prefabs/Environment/Confetti/Blast/ConfettiBlastOrangePurple.prefab
+  artifactKey: Guid(5a0a0878a2909a545a8c905f63fd4b26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Epic Toon FX/Prefabs/Environment/Confetti/Blast/ConfettiBlastOrangePurple.prefab using Guid(5a0a0878a2909a545a8c905f63fd4b26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eceea041f3b188834eca2219c10eeca8') in 0.013947 seconds
+  Import took 0.017553 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.392663 seconds.
+  path: Assets/Epic Toon FX/Materials/Misc/Unsorted/confetti_AB.mat
+  artifactKey: Guid(3625342a449601544b410357b8e7f201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Epic Toon FX/Materials/Misc/Unsorted/confetti_AB.mat using Guid(3625342a449601544b410357b8e7f201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecfb8624e1c4c8994011c59aec60e287') in 0.102483 seconds
+  Import took 0.105329 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.204265 seconds.
+  path: Assets/Epic Toon FX/Prefabs/Environment/Confetti/Blast/ConfettiBlastBlue.prefab
+  artifactKey: Guid(a54f4434684ca0143bf644289de35374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Epic Toon FX/Prefabs/Environment/Confetti/Blast/ConfettiBlastBlue.prefab using Guid(a54f4434684ca0143bf644289de35374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40a4bf90a1d4a616cff2ac05b9f52cd5') in 0.008623 seconds
+  Import took 0.012697 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004862 seconds.
+  path: Assets/Epic Toon FX/Prefabs/Environment/Confetti/Blast/ConfettiBlastBlue.prefab
+  artifactKey: Guid(a54f4434684ca0143bf644289de35374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Epic Toon FX/Prefabs/Environment/Confetti/Blast/ConfettiBlastBlue.prefab using Guid(a54f4434684ca0143bf644289de35374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40a4bf90a1d4a616cff2ac05b9f52cd5') in 0.008283 seconds
+  Import took 0.011652 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.588512 seconds.
+  path: Assets/Epic Toon FX/Prefabs/Environment/Confetti/Blast/ConfettiBlastGreenYellow.prefab
+  artifactKey: Guid(1c417f6a98778594d92a7a8883ede96e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Epic Toon FX/Prefabs/Environment/Confetti/Blast/ConfettiBlastGreenYellow.prefab using Guid(1c417f6a98778594d92a7a8883ede96e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '469d85272bdcc08f6d5edeeb1a32d668') in 0.008350 seconds
+  Import took 0.013131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001974 seconds.
+  path: Assets/Epic Toon FX/Prefabs/Environment/Confetti/Blast/ConfettiBlastGreenYellow.prefab
+  artifactKey: Guid(1c417f6a98778594d92a7a8883ede96e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Epic Toon FX/Prefabs/Environment/Confetti/Blast/ConfettiBlastGreenYellow.prefab using Guid(1c417f6a98778594d92a7a8883ede96e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '469d85272bdcc08f6d5edeeb1a32d668') in 0.007451 seconds
+  Import took 0.010530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.092894 seconds.
+  path: Assets/Epic Toon FX/Prefabs/Environment/Confetti/Blast/ConfettiBlastOrangeGreen.prefab
+  artifactKey: Guid(6bc8c7b8a20b3574080cc6fa394ec725) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Epic Toon FX/Prefabs/Environment/Confetti/Blast/ConfettiBlastOrangeGreen.prefab using Guid(6bc8c7b8a20b3574080cc6fa394ec725) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76eef2971ca9d9b4d5edf99ae064f487') in 0.008235 seconds
+  Import took 0.021128 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.793873 seconds.
+  path: Assets/Epic Toon FX/Prefabs/Environment/Confetti/Blast/ConfettiBlastOrangePurple.prefab
+  artifactKey: Guid(5a0a0878a2909a545a8c905f63fd4b26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Epic Toon FX/Prefabs/Environment/Confetti/Blast/ConfettiBlastOrangePurple.prefab using Guid(5a0a0878a2909a545a8c905f63fd4b26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd524aa8ff16082dd0d1784b5a3f1779a') in 0.007402 seconds
+  Import took 0.024901 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001739 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+03:36:40.257 |V| RiderPlugin                    | <unnamed-thread>:1             | Writing Library/EditorInstance.json
+Mono: successfully reloaded assembly
+- Completed reload, in  1.287 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1293 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.8 MB.
+System memory in use after: 87.8 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1915.
+Total: 6.159600 ms (FindLiveObjects: 0.248400 ms CreateObjectMapping: 0.043200 ms MarkObjects: 5.710700 ms  DeleteObjects: 0.153600 ms)
+

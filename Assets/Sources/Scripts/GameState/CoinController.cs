@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using Kuhpik;
 using UnityEngine;
 using UnityEngine.UI;
@@ -7,6 +5,7 @@ using UnityEngine.UI;
 public class CoinController : GameSystem, IIniting
 {
     [SerializeField] private Text textCoins;
+    [SerializeField] private ParticleSystem particle;
 
     private int countCoins;
     
@@ -21,6 +20,8 @@ public class CoinController : GameSystem, IIniting
     {
         countCoins++;
         textCoins.text = "COINS:" + countCoins;
+        particle.transform.position = pos;
+        particle.Play();
     }
 
     
