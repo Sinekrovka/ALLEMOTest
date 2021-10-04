@@ -6,9 +6,9 @@
         // Otherwise all of your settings in inspector can be messed up.
 
         Loading = 1,
-        Menu = 2,
-        Game = 3,
-        Pause = 4,
+        Game = 2,
+        Win = 3,
+        Lose = 4,
         Result = 10,
 
         CurrencyShared = 100

@@ -508,7 +508,7 @@ CharacterJoint:
   serializedVersion: 2
   m_SwingAxis: {x: 0.9907136, y: -0.13591921, z: -0.0035559535}
   m_TwistLimitSpring:
-    spring: 30
+    spring: 100
     damper: 0
   m_LowTwistLimit:
     limit: -10
@@ -1499,7 +1499,7 @@ CharacterJoint:
   serializedVersion: 2
   m_SwingAxis: {x: 0.9899797, y: -0.13595465, z: -0.03816551}
   m_TwistLimitSpring:
-    spring: 30
+    spring: 100
     damper: 0
   m_LowTwistLimit:
     limit: -10
@@ -1854,7 +1854,7 @@ GameObject:
   - component: {fileID: 3943499045435386286}
   m_Layer: 6
   m_Name: Hips
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

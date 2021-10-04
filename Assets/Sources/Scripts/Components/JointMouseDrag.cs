@@ -1,3 +1,4 @@
+using Kuhpik;
 using UnityEngine;
 
 public class JointMouseDrag : MonoBehaviour
@@ -45,6 +46,10 @@ public class JointMouseDrag : MonoBehaviour
     public void Falling()
     {
         drag = false;
+        if (TryGetComponent(out conf))
+        {
+            conf.breakForce = 1;
+        }
         //conf.breakForce = 0;
         MainFalling();
     }
@@ -55,7 +60,6 @@ public class JointMouseDrag : MonoBehaviour
         rb.useGravity = true;*/
         transform.parent.GetComponent<Rigidbody>().constraints = RigidbodyConstraints.None;
         transform.parent.GetComponent<Collider>().enabled = true;
-                
         transform.SetParent(null);
         // rb.velocity = Vector3.zero;
         drag = false;

@@ -307,7 +307,22 @@
         <e p="Sources" t="Include">
           <e p="Scripts" t="Include">
             <e p="Components" t="Include">
+              <e p="FinishController.cs" t="Include" />
+              <e p="Floor.cs" t="Include" />
               <e p="JointMouseDrag.cs" t="Include" />
+            </e>
+            <e p="GameState" t="Include">
+              <e p="CameraController.cs" t="Include" />
+            </e>
+            <e p="LoadState" t="Include">
+              <e p="LoadObjectsScript.cs" t="Include" />
+            </e>
+            <e p="LoseState" t="Include">
+              <e p="LoseController.cs" t="Include" />
+              <e p="RestartlevelController.cs" t="Include" />
+            </e>
+            <e p="WinState" t="Include">
+              <e p="WinParticle.cs" t="Include" />
             </e>
           </e>
         </e>
